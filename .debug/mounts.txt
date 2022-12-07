@@ -1,0 +1,34 @@
+root -> 
+root.theo -> theo/
+root.toxicpark01 -> toxicpark01/
+root.toxicpark02 -> toxicpark02/
+root.tpchayzelia -> tpchayzelia/
+root.cakp -> cakp/
+root.sota -> sota/
+root.coleblud -> coleblud/
+root.nickfast -> nickfast/
+root.zaura1 -> zaura1/
+root.zaura2 -> zaura2/
+root.zaura3 -> zaura3/
+root.zaura4 -> zaura4/
+root.zaura5 -> zaura5/
+root.zaura6 -> zaura6/
+root.theo.theo01 (unmounted)
+root.toxicpark01.toxic1 (unmounted)
+root.toxicpark02.toxic2 (unmounted)
+root.tpchayzelia.chayz (unmounted)
+root.cakp.ohlove -> ohlove/ >>> cakp/#ohlove
+root.cakp.insane -> insane/ >>> cakp/#insane
+root.sota.sota1 -> sota1/ >>> sota/#sota1
+root.sota.sota2 -> sota2/ >>> sota/#sota2
+root.sota.sota3 -> sota3/ >>> sota/#sota3
+root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
+root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
+root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
+root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2
+root.zaura1.zaura1 (unmounted)
+root.zaura2.zaura2 (unmounted)
+root.zaura3.zaura3 (unmounted)
+root.zaura4.zaura4 (unmounted)
+root.zaura5.zaura5 (unmounted)
+root.zaura6.zaura6 (unmounted)

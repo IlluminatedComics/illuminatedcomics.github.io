@@ -1,0 +1,192 @@
+# === Sample webcomic.yaml
+# === Edit this file to suit your webcomic ===
+
+# Hierarchy spec
+hierarchy:
+  website:
+    layout: gallery
+  short:
+    layout: scroll
+    show_date: yes
+  block:
+    layout: scroll
+    mount: redirect
+    infobox: yes
+    show_date: yes
+    dated: yes
+
+# Website metadata
+title: Illuminated Comics
+favicon: guttafavicon.png
+webroot: "https://illuminatedcomics.github.io/"
+
+navbar:
+  menu:
+    Home: gutta.home
+    About: extras.about
+    Get gutta!: href.https://github.com/cancrizans/gutta
+
+extras:
+  about:
+    from: about.md
+
+# Contents
+root:
+  title: Comics
+  short_title: ""
+  description: "Illuminated and his Comics about Killing People"
+  banner: banner_00.jpg
+  show_title: no
+  children:
+      
+    theo:
+      title: Theo the Lucky v01
+      prefix: theo01/
+      thumb: theo_thumbs.jpg
+      children:
+        theo01:
+            mount: no
+            date: 21 June 2022
+            pix: 0[01-20].jpg,
+      
+    toxicpark01:
+      title: Toxic Park v01
+      prefix: toxic01/
+      thumb: toxic_thumbs01.jpg
+      children:
+        toxic1:
+            mount: no
+            date: 3 January 2022
+            pix: 0[00-40].jpg,
+      
+    toxicpark02:
+      title: Toxic Park v02
+      prefix: toxic02/
+      thumb: toxic_thumbs02.jpg
+      children:
+        toxic2:
+            mount: no
+            date: 9 November 2022
+            pix: 0[01-44].jpg
+      
+    tpchayzelia:
+      title: Chay/Zelia
+      prefix: chayzelia/
+      thumb: chayzelia_thumbs.jpg
+      children:
+        chayz:
+            mount: no
+            date: 29 November 2022
+            pix: 0[01-05].jpg
+       
+    cakp:
+      title: CAKP
+      prefix: killingpeople/
+      thumb: killing_thumb.jpg
+      children:
+        ohlove: 
+            pix: Oh-Love-[001-008].jpg
+            date: 6 February 2022
+        insane:
+            pix: Ins[001-004].jpg
+            date: 18 August 2022
+      
+    sota:
+      title: Sota Deathmonger
+      prefix: sota/
+      thumb: sota_thumb.jpg
+      children:
+        sota1:
+            pix: sota1_[1-4].jpg,
+            date: 22 January 2022
+        sota2:
+            pix: sota2_[1-2].jpg
+            date: 6 July 2022
+        sota3:
+            pix: sota3_[1-4].jpg
+            date: 6 August 2022
+      
+    coleblud:
+      title: Cole Blud
+      prefix: coleblud/
+      thumb: cole_thumb.jpg
+      children:
+        cole1:
+            pix: cb1_[1-8].jpg,
+            date: 2 July 2022
+        cole2:
+            pix: cb2_[1-7].jpg
+            date: 3 September 2022
+      
+    nickfast:
+      title: Nick Fast
+      prefix: nickfast/
+      thumb: nick_thumb.jpg
+      children:
+        nick1:
+            pix: nf_[01-08].jpg,
+            date: 29 August 2022
+        nick2:
+            pix: nf_[09-16].jpg,
+            date: 31 October 2022
+      
+    zaura1:
+      title: Zaura v01
+      prefix: zaura01/
+      thumb: zaura_thumbs1.jpg
+      children:
+        zaura1:
+            mount: no
+            date: 12 June 2019
+            pix: 0[01-22].jpg
+      
+    zaura2:
+      title: Zaura v02
+      prefix: zaura02/
+      thumb: zaura_thumbs2.jpg
+      children:
+        zaura2:
+           mount: no
+           date: 05 August 2019
+           pix: 0[00-08].jpg, 0[10-24].jpg
+      
+    zaura3:
+      title: Zaura v03
+      prefix: zaura03/
+      thumb: zaura_thumbs3.jpg
+      children:
+        zaura3:
+            mount: no
+            date: 04 December 2019
+            pix: 0[01-25].jpg
+      
+    zaura4:
+      title: Zaura v04
+      prefix: zaura04/
+      thumb: zaura_thumbs4.jpg
+      children:
+        zaura4:
+            mount: no
+            date: 01 January 2020
+            pix: 0[1-9].jpg, 1[0-9].jpg, 2[0-5].jpg
+      
+    zaura5:
+      title: Zaura v05
+      prefix: zaura05/
+      thumb: zaura_thumbs5.jpg
+      children:
+        zaura5:
+            mount: no
+            date: 06 February 2020
+            pix: 0[1-9].jpg, 1[0-9].jpg, 2[0-5].jpg
+      
+    zaura6:
+      title: Zaura v06
+      date: 11 March 2020
+      prefix: zaura06/
+      thumb: zaura_thumbs6.jpg
+      children:
+        zaura6:
+            mount: no  
+            date: 11 March 2020
+            pix: 0[1-9].jpg, 1[0-9].jpg, 2[0-9].jpg, 3[0-5].jpg   
