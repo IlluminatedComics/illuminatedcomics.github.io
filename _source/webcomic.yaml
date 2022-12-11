@@ -20,6 +20,9 @@ title: Illuminated Comics
 favicon: guttafavicon.png
 webroot: "https://illuminatedcomics.github.io/"
 
+google.analytics:
+    tracking_id: G-YZ959F0MDF 
+
 navbar:
   menu:
     Home: gutta.home
