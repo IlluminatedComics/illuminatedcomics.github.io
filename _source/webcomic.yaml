@@ -91,6 +91,16 @@ root:
             mount: no
             date: 29 November 2022
             pix: 0[01-05].jpg
+            
+    tptheend:
+      title: Toxic Park The End
+      prefix: toxictheend/
+      thumb: end_thumb.png
+      children:
+        toxicend:
+            mount: no
+            date: 1 January 2023
+            pix: 0[01-10].jpg
        
     cakp:
       title: CAKP
