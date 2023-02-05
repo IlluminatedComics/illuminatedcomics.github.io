@@ -23,6 +23,8 @@ root.tpchayzelia.chayz (unmounted)
 root.tptheend.toxicend (unmounted)
 root.cakp.ohlove -> ohlove/ >>> cakp/#ohlove
 root.cakp.insane -> insane/ >>> cakp/#insane
+root.cakp.grim -> grim/ >>> cakp/#grim
+root.cakp.firouz -> firouz/ >>> cakp/#firouz
 root.sota.sota1 -> sota1/ >>> sota/#sota1
 root.sota.sota2 -> sota2/ >>> sota/#sota2
 root.sota.sota3 -> sota3/ >>> sota/#sota3
