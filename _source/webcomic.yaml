@@ -119,6 +119,12 @@ root:
         firouz:
             pix: firouz[001-003].jpg
             date: 4 February 2023
+        grifo:
+            pix: Grif[01-05].jpg
+            date: 27 February 2023
+        grit:
+            pix: Grit[01-08].jpg
+            date: 24 March 2023
       
     sota:
       title: Sota Deathmonger
