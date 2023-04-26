@@ -81,6 +81,16 @@ root:
             mount: no
             date: 9 November 2022
             pix: 0[01-44].jpg
+    
+    toxicpark03:
+      title: Toxic Park v03
+      prefix: toxic03/
+      thumb: toxic_thumbs03.png
+      children:
+        toxic3:
+            mount: no
+            date: 26 April 2023
+            pix: 0[00-42].jpg
       
     tpchayzelia:
       title: Chay/Zelia
