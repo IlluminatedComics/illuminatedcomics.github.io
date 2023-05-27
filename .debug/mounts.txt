@@ -7,6 +7,7 @@ root.toxicpark03 -> toxicpark03/
 root.tpchayzelia -> tpchayzelia/
 root.tptheend -> tptheend/
 root.cakp -> cakp/
+root.history -> history/
 root.sota -> sota/
 root.coleblud -> coleblud/
 root.nickfast -> nickfast/
@@ -26,9 +27,11 @@ root.tptheend.toxicend (unmounted)
 root.cakp.ohlove -> ohlove/ >>> cakp/#ohlove
 root.cakp.insane -> insane/ >>> cakp/#insane
 root.cakp.grim -> grim/ >>> cakp/#grim
-root.cakp.firouz -> firouz/ >>> cakp/#firouz
-root.cakp.grifo -> grifo/ >>> cakp/#grifo
 root.cakp.grit -> grit/ >>> cakp/#grit
+root.cakp.afd -> afd/ >>> cakp/#afd
+root.history.firouz -> firouz/ >>> history/#firouz
+root.history.grifo -> grifo/ >>> history/#grifo
+root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
 root.sota.sota1 -> sota1/ >>> sota/#sota1
 root.sota.sota2 -> sota2/ >>> sota/#sota2
 root.sota.sota3 -> sota3/ >>> sota/#sota3

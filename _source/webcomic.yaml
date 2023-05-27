@@ -126,15 +126,27 @@ root:
         grim:
             pix: grim[01-04].jpg
             date: 28 January 2023
-        firouz:
-            pix: firouz[001-003].jpg
-            date: 4 February 2023
-        grifo:
-            pix: Grif[01-05].jpg
-            date: 27 February 2023
         grit:
             pix: Grit[01-08].jpg
             date: 24 March 2023
+        afd:
+            pix: AFD[001-002].jpg
+            date: 1 April 2023
+            
+    history:
+        title: History Channel
+        prefix: history/
+        thumb: hist_thumbs.jpg
+        children:
+          firouz:
+            pix: firouz[001-003].jpg
+            date: 4 February 2023
+          grifo:
+            pix: Grif[01-05].jpg
+            date: 27 February 2023
+          alcibiades:
+            pix: alci[01-05].jpg
+            date: 14 May 2023
       
     sota:
       title: Sota Deathmonger
