@@ -132,6 +132,9 @@ root:
         afd:
             pix: AFD[001-002].jpg
             date: 1 April 2023
+        corspeman:
+            pix: corpse[01-03].jpg
+            date: 1 July 2023
             
     history:
         title: History Channel

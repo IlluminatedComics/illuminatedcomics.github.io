@@ -29,6 +29,7 @@ root.cakp.insane -> insane/ >>> cakp/#insane
 root.cakp.grim -> grim/ >>> cakp/#grim
 root.cakp.grit -> grit/ >>> cakp/#grit
 root.cakp.afd -> afd/ >>> cakp/#afd
+root.cakp.corspeman -> corspeman/ >>> cakp/#corspeman
 root.history.firouz -> firouz/ >>> history/#firouz
 root.history.grifo -> grifo/ >>> history/#grifo
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
