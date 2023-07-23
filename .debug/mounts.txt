@@ -11,6 +11,7 @@ root.history -> history/
 root.sota -> sota/
 root.coleblud -> coleblud/
 root.nickfast -> nickfast/
+root.agent077 -> agent077/
 root.zaura1 -> zaura1/
 root.zaura2 -> zaura2/
 root.zaura3 -> zaura3/
@@ -40,6 +41,7 @@ root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
 root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2
+root.agent077.agent1 -> agent1/ >>> agent077/#agent1
 root.zaura1.zaura1 (unmounted)
 root.zaura2.zaura2 (unmounted)
 root.zaura3.zaura3 (unmounted)

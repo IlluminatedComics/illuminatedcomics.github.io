@@ -189,6 +189,15 @@ root:
         nick2:
             pix: nf_[09-16].jpg,
             date: 31 October 2022
+            
+    agent077:
+      title: Agent 077
+      prefix: agent077/
+      thumb: 077_thumb.jpg
+      children:
+        agent1:
+           pix: 0[01-04].jpg,
+           date: 23 July 2023
       
     zaura1:
       title: Zaura v01
