@@ -198,6 +198,9 @@ root:
         agent1:
            pix: 0[01-04].jpg,
            date: 23 July 2023
+        agent2:
+           pix: 0[05-08].jpg,
+           date: 3 August 2023
       
     zaura1:
       title: Zaura v01
