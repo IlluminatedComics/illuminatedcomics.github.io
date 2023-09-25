@@ -10,6 +10,7 @@ root.cakp -> cakp/
 root.history -> history/
 root.sota -> sota/
 root.coleblud -> coleblud/
+root.captaindamage -> captaindamage/
 root.nickfast -> nickfast/
 root.agent077 -> agent077/
 root.zaura1 -> zaura1/
@@ -39,6 +40,7 @@ root.sota.sota2 -> sota2/ >>> sota/#sota2
 root.sota.sota3 -> sota3/ >>> sota/#sota3
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
+root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
 root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2
 root.agent077.agent1 -> agent1/ >>> agent077/#agent1

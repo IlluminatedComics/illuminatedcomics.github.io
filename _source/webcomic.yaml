@@ -177,6 +177,15 @@ root:
         cole2:
             pix: cb2_[1-7].jpg
             date: 3 September 2022
+            
+    captaindamage:
+        title: Captain Damage
+        prefix: captaindamage/
+        thumb: damage_thumb.jpg
+        children:
+          damage1:
+            pix: 0[01-04].jpg
+            date: 25 September 2023
       
     nickfast:
       title: Nick Fast
