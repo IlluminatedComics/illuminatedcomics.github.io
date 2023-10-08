@@ -186,6 +186,9 @@ root:
           damage1:
             pix: 0[01-04].jpg
             date: 25 September 2023
+          damage2:
+            pix: 0[05-08].jpg
+            date: 8 October 2023
       
     nickfast:
       title: Nick Fast
