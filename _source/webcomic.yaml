@@ -177,6 +177,9 @@ root:
         cole2:
             pix: cb2_[1-7].jpg
             date: 3 September 2022
+        cole3:
+            pix: cb3_[1-4].jpg
+            date: 17 November 2023
             
     captaindamage:
         title: Captain Damage
