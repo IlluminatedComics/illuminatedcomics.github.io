@@ -180,6 +180,9 @@ root:
         cole3:
             pix: cb3_[1-4].jpg
             date: 17 November 2023
+        cole4:
+            pix: cb3_[5-8].jpg
+            date: 20 November 2023
             
     captaindamage:
         title: Captain Damage

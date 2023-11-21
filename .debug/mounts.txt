@@ -41,6 +41,7 @@ root.sota.sota3 -> sota3/ >>> sota/#sota3
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
+root.coleblud.cole4 -> cole4/ >>> coleblud/#cole4
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
