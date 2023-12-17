@@ -39,6 +39,7 @@ root.sota.sota1 -> sota1/ >>> sota/#sota1
 root.sota.sota2 -> sota2/ >>> sota/#sota2
 root.sota.sota3 -> sota3/ >>> sota/#sota3
 root.sota.sota4 -> sota4/ >>> sota/#sota4
+root.sota.sota5 -> sota5/ >>> sota/#sota5
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
