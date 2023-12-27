@@ -177,6 +177,9 @@ root:
         sota7:
             pix: sota4_[10-12].jpg
             date: 24 December 2023
+        sota8:
+            pix: sota4_[13-16].jpg  
+            date: 27 December 2023
       
     coleblud:
       title: Cole Blud
