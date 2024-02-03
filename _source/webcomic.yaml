@@ -135,6 +135,9 @@ root:
         corspeman:
             pix: corpse[01-03].jpg
             date: 1 July 2023
+        corpseman2:
+            pix: HorrorofCorpse[01-04].jpg
+            date: 3 February 2024
             
     history:
         title: History Channel
