@@ -41,6 +41,16 @@ root:
   banner: banner_00.jpg
   show_title: no
   children:
+  
+    TSTS:
+      title: The Star Tide Shores
+      prefix: tsts/
+      thumb: tsts_thumbs.png
+      children:
+        tsts:
+            mount: no
+            date: 21 January 2024
+            pix: 0[01-13].jpg
       
     theo:
       title: Theo the Lucky v01
