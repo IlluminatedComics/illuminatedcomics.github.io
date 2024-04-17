@@ -35,6 +35,7 @@ root.cakp.grit -> grit/ >>> cakp/#grit
 root.cakp.afd -> afd/ >>> cakp/#afd
 root.cakp.corspeman -> corspeman/ >>> cakp/#corspeman
 root.cakp.corpseman2 -> corpseman2/ >>> cakp/#corpseman2
+root.cakp.pinocchio -> pinocchio/ >>> cakp/#pinocchio
 root.history.firouz -> firouz/ >>> history/#firouz
 root.history.grifo -> grifo/ >>> history/#grifo
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
@@ -47,6 +48,8 @@ root.sota.sota6 -> sota6/ >>> sota/#sota6
 root.sota.sota7 -> sota7/ >>> sota/#sota7
 root.sota.sota8 -> sota8/ >>> sota/#sota8
 root.sota.sota9 -> sota9/ >>> sota/#sota9
+root.sota.sota10 -> sota10/ >>> sota/#sota10
+root.sota.sota11 -> sota11/ >>> sota/#sota11
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
