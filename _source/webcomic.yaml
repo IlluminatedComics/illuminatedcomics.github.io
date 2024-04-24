@@ -205,6 +205,9 @@ root:
         sota11:
             pix: Sota5_[4-6].jpg
             date: 17 April 2024
+        sota12:
+            pix: Sota5_[7-10].jpg
+            date: 24 April 2024
       
     coleblud:
       title: Cole Blud
