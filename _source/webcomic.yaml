@@ -215,7 +215,7 @@ root:
        thumb: sota_thumb2.jpg
        children: 
         queens1:
-            pix: 0[01-04].jpg
+            pix: queen[1-4].jpg
             date: 25 May 2024
     
     coleblud:
