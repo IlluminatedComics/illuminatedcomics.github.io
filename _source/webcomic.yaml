@@ -211,7 +211,7 @@ root:
       
     sota02:
        title: Sota Deathmonger
-       prefix: Sota02/
+       prefix: sota02/
        thumb: sota_thumb2.jpg
        children: 
         queens1:
