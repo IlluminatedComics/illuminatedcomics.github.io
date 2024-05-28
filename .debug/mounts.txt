@@ -10,16 +10,11 @@ root.tptheend -> tptheend/
 root.cakp -> cakp/
 root.history -> history/
 root.sota -> sota/
+root.sota02 -> sota02/
 root.coleblud -> coleblud/
 root.captaindamage -> captaindamage/
 root.nickfast -> nickfast/
 root.agent077 -> agent077/
-root.zaura1 -> zaura1/
-root.zaura2 -> zaura2/
-root.zaura3 -> zaura3/
-root.zaura4 -> zaura4/
-root.zaura5 -> zaura5/
-root.zaura6 -> zaura6/
 root.TSTS.tsts (unmounted)
 root.theo.theo01 (unmounted)
 root.theo757.theo757 (unmounted)
@@ -51,6 +46,7 @@ root.sota.sota9 -> sota9/ >>> sota/#sota9
 root.sota.sota10 -> sota10/ >>> sota/#sota10
 root.sota.sota11 -> sota11/ >>> sota/#sota11
 root.sota.sota12 -> sota12/ >>> sota/#sota12
+root.sota02.queens1 -> queens1/ >>> sota02/#queens1
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
@@ -61,9 +57,3 @@ root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
 root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2
 root.agent077.agent1 -> agent1/ >>> agent077/#agent1
 root.agent077.agent2 -> agent2/ >>> agent077/#agent2
-root.zaura1.zaura1 (unmounted)
-root.zaura2.zaura2 (unmounted)
-root.zaura3.zaura3 (unmounted)
-root.zaura4.zaura4 (unmounted)
-root.zaura5.zaura5 (unmounted)
-root.zaura6.zaura6 (unmounted)

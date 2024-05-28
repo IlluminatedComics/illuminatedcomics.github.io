@@ -209,6 +209,15 @@ root:
             pix: Sota5_[7-10].jpg
             date: 24 April 2024
       
+    sota02:
+       title: Sota Deathmonger
+       prefix: Sota02/
+       thumb: sota_thumb2.jpg
+       children: 
+        queens1:
+            pix: 0[01-04].jpg
+            date: 25 May 2024
+    
     coleblud:
       title: Cole Blud
       prefix: coleblud/
@@ -263,63 +272,3 @@ root:
            pix: 0[05-08].jpg,
            date: 3 August 2023
       
-    zaura1:
-      title: Zaura v01
-      prefix: zaura01/
-      thumb: zaura_thumbs1.jpg
-      children:
-        zaura1:
-            mount: no
-            date: 12 June 2019
-            pix: 0[01-22].jpg
-      
-    zaura2:
-      title: Zaura v02
-      prefix: zaura02/
-      thumb: zaura_thumbs2.jpg
-      children:
-        zaura2:
-           mount: no
-           date: 05 August 2019
-           pix: 0[00-08].jpg, 0[10-24].jpg
-      
-    zaura3:
-      title: Zaura v03
-      prefix: zaura03/
-      thumb: zaura_thumbs3.jpg
-      children:
-        zaura3:
-            mount: no
-            date: 04 December 2019
-            pix: 0[01-25].jpg
-      
-    zaura4:
-      title: Zaura v04
-      prefix: zaura04/
-      thumb: zaura_thumbs4.jpg
-      children:
-        zaura4:
-            mount: no
-            date: 01 January 2020
-            pix: 0[1-9].jpg, 1[0-9].jpg, 2[0-5].jpg
-      
-    zaura5:
-      title: Zaura v05
-      prefix: zaura05/
-      thumb: zaura_thumbs5.jpg
-      children:
-        zaura5:
-            mount: no
-            date: 06 February 2020
-            pix: 0[1-9].jpg, 1[0-9].jpg, 2[0-5].jpg
-      
-    zaura6:
-      title: Zaura v06
-      date: 11 March 2020
-      prefix: zaura06/
-      thumb: zaura_thumbs6.jpg
-      children:
-        zaura6:
-            mount: no  
-            date: 11 March 2020
-            pix: 0[1-9].jpg, 1[0-9].jpg, 2[0-9].jpg, 3[0-5].jpg   
