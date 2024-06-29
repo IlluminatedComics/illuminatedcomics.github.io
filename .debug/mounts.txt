@@ -51,6 +51,7 @@ root.sota02.queens2 -> queens2/ >>> sota02/#queens2
 root.sota02.queens3 -> queens3/ >>> sota02/#queens3
 root.sota02.queens4 -> queens4/ >>> sota02/#queens4
 root.sota02.queens5 -> queens5/ >>> sota02/#queens5
+root.sota02.queens6 -> queens6/ >>> sota02/#queens6
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3

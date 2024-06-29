@@ -229,6 +229,9 @@ root:
         queens5:
             pix: queen[17-20].jpg
             date: 22 June 2024
+        queens6:
+            pix: queen[21-22].jpg
+            date: 29 June 2024
     
     coleblud:
       title: Cole Blud
