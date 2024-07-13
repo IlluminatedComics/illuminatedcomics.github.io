@@ -235,7 +235,9 @@ root:
         queen7:
             pix: queen[23-24].jpg
             date: 8 July 2024
-    
+        queen8:
+            pix: queen[25-28].jpg
+            date: 12 July 2024
     coleblud:
       title: Cole Blud
       prefix: coleblud/
