@@ -151,6 +151,9 @@ root:
         pinocchio:
             pix: Pino[1-4].jpg
             date: 2 March 2024
+        corpseman3:
+            pix: Hippo[01-04].jpg
+            date: 16 October 2024
             
     history:
         title: History Channel
@@ -259,7 +262,17 @@ root:
         cole4:
             pix: cb3_[5-8].jpg
             date: 20 November 2023
-            
+
+    doctorwho:
+       title: Doctor Whoever
+       prefix: doctorwho/
+       thumb: who_thumb.jpg
+       children:
+         doc1:
+            mount: no
+            pix: Who [01-08].jpg
+            date: 07 November 2024
+    
     captaindamage:
         title: Captain Damage
         prefix: captaindamage/

@@ -12,6 +12,7 @@ root.history -> history/
 root.sota -> sota/
 root.sota02 -> sota02/
 root.coleblud -> coleblud/
+root.doctorwho -> doctorwho/
 root.captaindamage -> captaindamage/
 root.nickfast -> nickfast/
 root.agent077 -> agent077/
@@ -31,6 +32,7 @@ root.cakp.afd -> afd/ >>> cakp/#afd
 root.cakp.corspeman -> corspeman/ >>> cakp/#corspeman
 root.cakp.corpseman2 -> corpseman2/ >>> cakp/#corpseman2
 root.cakp.pinocchio -> pinocchio/ >>> cakp/#pinocchio
+root.cakp.corpseman3 -> corpseman3/ >>> cakp/#corpseman3
 root.history.firouz -> firouz/ >>> history/#firouz
 root.history.grifo -> grifo/ >>> history/#grifo
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
@@ -59,6 +61,7 @@ root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
 root.coleblud.cole4 -> cole4/ >>> coleblud/#cole4
+root.doctorwho.doc1 (unmounted)
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
