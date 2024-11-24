@@ -154,6 +154,9 @@ root:
         corpseman3:
             pix: Hippo[01-04].jpg
             date: 16 October 2024
+        tomb:
+            pix: tomb[01-04].jpg
+            date: 24 October 2024
             
     history:
         title: History Channel

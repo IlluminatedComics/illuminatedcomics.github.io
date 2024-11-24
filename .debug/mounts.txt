@@ -33,6 +33,7 @@ root.cakp.corspeman -> corspeman/ >>> cakp/#corspeman
 root.cakp.corpseman2 -> corpseman2/ >>> cakp/#corpseman2
 root.cakp.pinocchio -> pinocchio/ >>> cakp/#pinocchio
 root.cakp.corpseman3 -> corpseman3/ >>> cakp/#corpseman3
+root.cakp.tomb -> tomb/ >>> cakp/#tomb
 root.history.firouz -> firouz/ >>> history/#firouz
 root.history.grifo -> grifo/ >>> history/#grifo
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
