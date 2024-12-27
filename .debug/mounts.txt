@@ -65,6 +65,7 @@ root.coleblud.cole4 -> cole4/ >>> coleblud/#cole4
 root.doctorwho.doc1 (unmounted)
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
+root.captaindamage.damage3 -> damage3/ >>> captaindamage/#damage3
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
 root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2
 root.agent077.agent1 -> agent1/ >>> agent077/#agent1
