@@ -48,9 +48,11 @@ root:
       thumb: tsts_thumbs.png
       children:
         tsts:
-            mount: no
             date: 21 January 2024
             pix: 0[01-13].jpg
+        charax:
+            date: 27 March 2025
+            pix: 0[14-17].jpg
 
     ORLANDO:
         title: Orlando
@@ -155,38 +157,6 @@ root:
             pix: Sota5_[7-10].jpg
             date: 24 April 2024
       
-    sota02:
-       title: Sota Deathmonger
-       prefix: sota02/
-       thumb: sota_thumb2.jpg
-       children: 
-        queens1:
-            pix: queen[1-4].jpg
-            date: 25 May 2024
-        queens2:
-            pix: queen[5-8].jpg
-            date: 31 May 2024
-        queens3:
-            pix: queen[9-12].jpg
-            date: 8 June 2024
-        queens4:
-            pix: queen[13-16].jpg
-            date: 15 June 2024
-        queens5:
-            pix: queen[17-20].jpg
-            date: 22 June 2024
-        queens6:
-            pix: queen[21-22].jpg
-            date: 29 June 2024
-        queen7:
-            pix: queen[23-24].jpg
-            date: 8 July 2024
-        queen8:
-            pix: queen[25-28].jpg
-            date: 12 July 2024
-        queen9:
-            pix: queen[29-40].jpg
-            date: 21 July 2024
             
     captaindamage:
         title: Captain Damage
