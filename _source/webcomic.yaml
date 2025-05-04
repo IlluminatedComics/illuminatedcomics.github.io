@@ -84,21 +84,15 @@ root:
         afd:
             pix: AFD[001-002].jpg
             date: 1 April 2023
-        corspeman:
-            pix: corpse[01-03].jpg
-            date: 1 July 2023
-        corpseman2:
-            pix: HorrorofCorpse[01-04].jpg
-            date: 3 February 2024
         pinocchio:
             pix: Pino[1-4].jpg
             date: 2 March 2024
-        corpseman3:
-            pix: Hippo[01-04].jpg
-            date: 16 October 2024
         tomb:
             pix: tomb[01-04].jpg
             date: 24 October 2024
+        kopfandtesta:
+            pix: kt[001-008].jpg
+            date: 3 May 2025
   
       history:
         title: History Channel
@@ -156,8 +150,7 @@ root:
         sota12:
             pix: Sota5_[7-10].jpg
             date: 24 April 2024
-      
-            
+              
     captaindamage:
         title: Captain Damage
         prefix: captaindamage/
@@ -175,26 +168,16 @@ root:
             
             
     theo:
-      title: Theo the Lucky v01
-      prefix: theo01/
+      title: Theo the Lucky
+      prefix: theo/
       thumb: theo_thumbs.jpg
       children:
         theo01:
-            mount: no
             date: 21 June 2022
-            pix: 0[01-20].jpg,
-            
-    theo757:
-        title: Theo the Lucky v02
-        prefix: theo757/
-        thumb: theo757.jpg
-        children:
-         theo757:
-            mount: no
+            pix: 0[01-20].jpg
+        theo757:
             date: 15 December 2022
-            pix: 0[01-06].jpg
-            
-            
+            pix: Youth[01-06].jpg      
       
     toxicpark01:
       title: Toxic Park v01
@@ -245,6 +228,25 @@ root:
             mount: no
             date: 1 January 2023
             pix: 0[01-10].jpg
+            
+    corpseman:
+      title: Sir Charles Corpseman
+      prefix: corpseman/
+      thumb: corpse_thumbs.jpg
+      children:
+        corspeman1:
+            pix: corpse[01-03].jpg
+            date: 1 July 2023
+        corpseman2:
+            pix: HorrorofCorpse[01-04].jpg
+            date: 3 February 2024
+        corpseman3:
+            pix: Hippo[01-04].jpg
+            date: 16 October 2024
+        corpseman4:
+            pix: War[001-004].jpg
+            date: 27 April 2025
+        
         
     coleblud:
       title: Cole Blud
@@ -297,4 +299,5 @@ root:
         agent2:
            pix: 0[05-08].jpg,
            date: 3 August 2023
+           
       

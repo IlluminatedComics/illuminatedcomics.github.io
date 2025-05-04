@@ -5,12 +5,12 @@ root.cakp -> cakp/
 root.sota -> sota/
 root.captaindamage -> captaindamage/
 root.theo -> theo/
-root.theo757 -> theo757/
 root.toxicpark01 -> toxicpark01/
 root.toxicpark02 -> toxicpark02/
 root.toxicpark03 -> toxicpark03/
 root.tpchayzelia -> tpchayzelia/
 root.tptheend -> tptheend/
+root.corpseman -> corpseman/
 root.coleblud -> coleblud/
 root.doctorwho -> doctorwho/
 root.nickfast -> nickfast/
@@ -23,11 +23,9 @@ root.cakp.insane -> insane/ >>> cakp/#insane
 root.cakp.grim -> grim/ >>> cakp/#grim
 root.cakp.grit -> grit/ >>> cakp/#grit
 root.cakp.afd -> afd/ >>> cakp/#afd
-root.cakp.corspeman -> corspeman/ >>> cakp/#corspeman
-root.cakp.corpseman2 -> corpseman2/ >>> cakp/#corpseman2
 root.cakp.pinocchio -> pinocchio/ >>> cakp/#pinocchio
-root.cakp.corpseman3 -> corpseman3/ >>> cakp/#corpseman3
 root.cakp.tomb -> tomb/ >>> cakp/#tomb
+root.cakp.kopfandtesta -> kopfandtesta/ >>> cakp/#kopfandtesta
 root.sota.sota1 -> sota1/ >>> sota/#sota1
 root.sota.sota2 -> sota2/ >>> sota/#sota2
 root.sota.sota3 -> sota3/ >>> sota/#sota3
@@ -43,13 +41,17 @@ root.sota.sota12 -> sota12/ >>> sota/#sota12
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
 root.captaindamage.damage3 -> damage3/ >>> captaindamage/#damage3
-root.theo.theo01 (unmounted)
-root.theo757.theo757 (unmounted)
+root.theo.theo01 -> theo01/ >>> theo/#theo01
+root.theo.theo757 -> theo757/ >>> theo/#theo757
 root.toxicpark01.toxic1 (unmounted)
 root.toxicpark02.toxic2 (unmounted)
 root.toxicpark03.toxic3 (unmounted)
 root.tpchayzelia.chayz (unmounted)
 root.tptheend.toxicend (unmounted)
+root.corpseman.corspeman1 -> corspeman1/ >>> corpseman/#corspeman1
+root.corpseman.corpseman2 -> corpseman2/ >>> corpseman/#corpseman2
+root.corpseman.corpseman3 -> corpseman3/ >>> corpseman/#corpseman3
+root.corpseman.corpseman4 -> corpseman4/ >>> corpseman/#corpseman4
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
