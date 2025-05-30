@@ -3,6 +3,7 @@ root.TSTS -> TSTS/
 root.ORLANDO -> ORLANDO/
 root.cakp -> cakp/
 root.sota -> sota/
+root.sota02 -> sota02/
 root.captaindamage -> captaindamage/
 root.theo -> theo/
 root.toxicpark01 -> toxicpark01/
@@ -38,6 +39,7 @@ root.sota.sota9 -> sota9/ >>> sota/#sota9
 root.sota.sota10 -> sota10/ >>> sota/#sota10
 root.sota.sota11 -> sota11/ >>> sota/#sota11
 root.sota.sota12 -> sota12/ >>> sota/#sota12
+root.sota02.curse -> curse/ >>> sota02/#curse
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
 root.captaindamage.damage3 -> damage3/ >>> captaindamage/#damage3
