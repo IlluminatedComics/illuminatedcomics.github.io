@@ -110,7 +110,7 @@ root:
             date: 14 May 2023
       
     sota:
-      title: Sota Deathmonger
+      title: Sota Deathmonger v1
       prefix: sota/
       thumb: sota_thumb.jpg
       children:
@@ -150,10 +150,21 @@ root:
         sota12:
             pix: Sota5_[7-10].jpg
             date: 24 April 2024
-    sota02:
-        title: Sota Deathmonger 02
-        prefix: sota02/
+    
+    queens:
+        title: Queens of the Spider Coast
+        prefix: queens/
         thumb: sota_thumb2.jpg
+        children:
+            queens:
+               mount: no
+               date: 21 July 2024
+               pix: queen[1-40].jpg
+    
+    sota02:
+        title: Sota Deathmonger v2
+        prefix: sota02/
+        thumb: sota_thumb3.jpg
         children:
             curse:
                 pix: 0[01-14].jpg
