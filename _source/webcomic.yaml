@@ -93,6 +93,9 @@ root:
         kopfandtesta:
             pix: kt[001-008].jpg
             date: 3 May 2025
+        babble:
+            pix: 0[01-04].jpg
+            date: 4 June 2025
   
       history:
         title: History Channel

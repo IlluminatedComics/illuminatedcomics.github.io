@@ -28,6 +28,7 @@ root.cakp.afd -> afd/ >>> cakp/#afd
 root.cakp.pinocchio -> pinocchio/ >>> cakp/#pinocchio
 root.cakp.tomb -> tomb/ >>> cakp/#tomb
 root.cakp.kopfandtesta -> kopfandtesta/ >>> cakp/#kopfandtesta
+root.cakp.babble -> babble/ >>> cakp/#babble
 root.sota.sota1 -> sota1/ >>> sota/#sota1
 root.sota.sota2 -> sota2/ >>> sota/#sota2
 root.sota.sota3 -> sota3/ >>> sota/#sota3
