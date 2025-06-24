@@ -5,6 +5,7 @@ root.cakp -> cakp/
 root.sota -> sota/
 root.queens -> queens/
 root.sota02 -> sota02/
+root.ossoduro -> ossoduro/
 root.captaindamage -> captaindamage/
 root.theo -> theo/
 root.toxicpark01 -> toxicpark01/
@@ -14,6 +15,7 @@ root.tpchayzelia -> tpchayzelia/
 root.tptheend -> tptheend/
 root.corpseman -> corpseman/
 root.coleblud -> coleblud/
+root.history -> history/
 root.doctorwho -> doctorwho/
 root.nickfast -> nickfast/
 root.agent077 -> agent077/
@@ -43,6 +45,7 @@ root.sota.sota11 -> sota11/ >>> sota/#sota11
 root.sota.sota12 -> sota12/ >>> sota/#sota12
 root.queens.queens (unmounted)
 root.sota02.curse -> curse/ >>> sota02/#curse
+root.ossoduro.osso (unmounted)
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
 root.captaindamage.damage3 -> damage3/ >>> captaindamage/#damage3
@@ -61,6 +64,9 @@ root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
 root.coleblud.cole4 -> cole4/ >>> coleblud/#cole4
+root.history.firouz -> firouz/ >>> history/#firouz
+root.history.grifo -> grifo/ >>> history/#grifo
+root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
 root.doctorwho.doc1 (unmounted)
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
 root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2

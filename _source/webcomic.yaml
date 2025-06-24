@@ -96,22 +96,7 @@ root:
         babble:
             pix: 0[01-04].jpg
             date: 4 June 2025
-  
-      history:
-        title: History Channel
-        prefix: history/
-        thumb: hist_thumbs.jpg
-        children:
-          firouz:
-            pix: firouz[001-003].jpg
-            date: 4 February 2023
-          grifo:
-            pix: Grif[01-05].jpg
-            date: 27 February 2023
-          alcibiades:
-            pix: alci[01-05].jpg
-            date: 14 May 2023
-      
+    
     sota:
       title: Sota Deathmonger v1
       prefix: sota/
@@ -172,6 +157,18 @@ root:
             curse:
                 pix: 0[01-14].jpg
                 date: 30 May 2025
+                
+                
+    ossoduro:
+        title: Osso Duro
+        prefix: ossoduro/
+        thumb: osso_thumbs.jpg
+        children:
+            osso:
+                mount: no
+                pix: 0[01-10].jpg
+                date: 25 June 2025
+            
       
     captaindamage:
         title: Captain Damage
@@ -267,8 +264,7 @@ root:
             date: 16 October 2024
         corpseman4:
             pix: War[001-004].jpg
-            date: 27 April 2025
-        
+            date: 27 April 2025      
         
     coleblud:
       title: Cole Blud
@@ -287,6 +283,21 @@ root:
         cole4:
             pix: cb3_[5-8].jpg
             date: 20 November 2023
+            
+    history:
+        title: History Channel
+        prefix: history/
+        thumb: hist_thumbs.jpg
+        children:
+          firouz:
+            pix: firouz[001-003].jpg
+            date: 4 February 2023
+          grifo:
+            pix: Grif[01-05].jpg
+            date: 27 February 2023
+          alcibiades:
+            pix: alci[01-05].jpg
+            date: 14 May 2023
 
     doctorwho:
        title: Doctor Whoever
