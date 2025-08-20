@@ -70,7 +70,7 @@ root:
       thumb: killing_thumb.jpg
       children:
         ohlove: 
-            pix: Oh-Love-[001-008].jpg
+            pix: Oh-Love-[001-005].jpg
             date: 6 February 2022
         insane:
             pix: Ins[001-004].jpg
@@ -96,6 +96,9 @@ root:
         babble:
             pix: 0[01-04].jpg
             date: 4 June 2025
+        madmagic:
+            pix: mm[001-007].jpg
+            date: 20 August 2025
     
     sota:
       title: Sota Deathmonger v1
