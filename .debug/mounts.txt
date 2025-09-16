@@ -68,6 +68,7 @@ root.coleblud.cole4 -> cole4/ >>> coleblud/#cole4
 root.history.firouz -> firouz/ >>> history/#firouz
 root.history.grifo -> grifo/ >>> history/#grifo
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
+root.history.rosmunda -> rosmunda/ >>> history/#rosmunda
 root.doctorwho.doc1 (unmounted)
 root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
 root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2

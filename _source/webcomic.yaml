@@ -187,8 +187,7 @@ root:
           damage3:
             pix: 0[09-14].jpg
             date: 27 December 2024
-            
-            
+                      
     theo:
       title: Theo the Lucky
       prefix: theo/
@@ -301,6 +300,9 @@ root:
           alcibiades:
             pix: alci[01-05].jpg
             date: 14 May 2023
+          rosmunda:
+            pix: Ros[001-008].jpg
+            date: 16 September 2025
 
     doctorwho:
        title: Doctor Whoever
