@@ -150,7 +150,7 @@ root:
             queens:
                mount: no
                date: 21 July 2024
-               pix: queen[1-40].jpg
+               pix: queen[0-40].jpg
     
     sota02:
         title: Sota Deathmonger v2
