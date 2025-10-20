@@ -163,12 +163,12 @@ root:
     
     sota03:
         title: Death's Throne
-        prefix: dethrone/
-        thumb: sotha_thumb4.jpg
+        prefix: deathrone/
+        thumb: sota_thumb4.jpg
         children:
             prologue:
                 pix: 0[01-05].jpg
-                date:
+                date: 20 October 2025
                 
                 
     ossoduro:
