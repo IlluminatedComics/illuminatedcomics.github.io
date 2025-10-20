@@ -160,6 +160,15 @@ root:
             curse:
                 pix: 0[01-14].jpg
                 date: 30 May 2025
+    
+    sota03:
+        title: Death's Throne
+        prefix: dethrone/
+        thumb: sotha_thumb4.jpg
+        children:
+            prologue:
+                pix: 0[01-05].jpg
+                date:
                 
                 
     ossoduro:
