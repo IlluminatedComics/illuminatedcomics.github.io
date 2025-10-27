@@ -169,7 +169,9 @@ root:
             prologue:
                 pix: 0[01-05].jpg
                 date: 20 October 2025
-                
+            floor1:
+                pix: 006.jpg
+                date: 27 October 2025
                 
     ossoduro:
         title: Osso Duro
