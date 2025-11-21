@@ -68,6 +68,7 @@ root.corpseman.corspeman1 -> corspeman1/ >>> corpseman/#corspeman1
 root.corpseman.corpseman2 -> corpseman2/ >>> corpseman/#corpseman2
 root.corpseman.corpseman3 -> corpseman3/ >>> corpseman/#corpseman3
 root.corpseman.corpseman4 -> corpseman4/ >>> corpseman/#corpseman4
+root.corpseman.corpseman5 -> corpseman5/ >>> corpseman/#corpseman5
 root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
 root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
 root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3

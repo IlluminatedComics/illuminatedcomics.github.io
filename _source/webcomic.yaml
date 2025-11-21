@@ -289,7 +289,10 @@ root:
             date: 16 October 2024
         corpseman4:
             pix: War[001-004].jpg
-            date: 27 April 2025      
+            date: 27 April 2025  
+        corpseman5:
+            pix: V[001-007].jpg
+            date: 21 November 2025
         
     coleblud:
       title: Cole Blud
