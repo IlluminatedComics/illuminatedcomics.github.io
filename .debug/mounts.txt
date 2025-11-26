@@ -53,6 +53,7 @@ root.sota03.floor2 -> floor2/ >>> sota03/#floor2
 root.sota03.floor3 -> floor3/ >>> sota03/#floor3
 root.sota03.floor4 -> floor4/ >>> sota03/#floor4
 root.sota03.floor5 -> floor5/ >>> sota03/#floor5
+root.sota03.floor6 -> floor6/ >>> sota03/#floor6
 root.ossoduro.osso (unmounted)
 root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
 root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
