@@ -190,6 +190,9 @@ root:
             floor7:
                 pix: 012.jpg
                 date: 03 December 2025
+            floor8:
+                pix: 013.jpg
+                date: 10 December 2025
                 
     ossoduro:
         title: Osso Duro
