@@ -7,6 +7,3 @@ Livio Baggio is an italian cartoonist working under the name Illuminated. He mak
 [STORE](https://illuminatedcomics.itch.io/)
 
 [ADDITIONAL COMICS](https://mega.nz/folder/IlhmwLrL#LF4yN_Qm3on5NRJkanpGLA)
-
-CONTACT:
-damncomicsmail@gmail.com
