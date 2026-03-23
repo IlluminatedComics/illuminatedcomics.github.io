@@ -1,6 +1,7 @@
 root -> 
-root.TSTS -> TSTS/
+root.OBSCURUM -> OBSCURUM/
 root.ORLANDO -> ORLANDO/
+root.TSTS -> TSTS/
 root.cakp -> cakp/
 root.sota -> sota/
 root.queens -> queens/
@@ -20,9 +21,10 @@ root.history -> history/
 root.doctorwho -> doctorwho/
 root.nickfast -> nickfast/
 root.agent077 -> agent077/
+root.OBSCURUM.obscurum1 -> obscurum1/ >>> OBSCURUM/#obscurum1
+root.ORLANDO.orlando (unmounted)
 root.TSTS.tsts -> tsts/ >>> TSTS/#tsts
 root.TSTS.charax -> charax/ >>> TSTS/#charax
-root.ORLANDO.orlando (unmounted)
 root.cakp.ohlove -> ohlove/ >>> cakp/#ohlove
 root.cakp.insane -> insane/ >>> cakp/#insane
 root.cakp.grim -> grim/ >>> cakp/#grim

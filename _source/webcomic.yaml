@@ -42,6 +42,25 @@ root:
   show_title: no
   children:
   
+    OBSCURUM:
+       title: Obscurum
+       prefix: obscurum/
+       thumb: obscurum_thumb.jpg
+       children:
+        obscurum1:
+            date: 30 March 2026
+            pix: 0[00-14].jpg
+  
+    ORLANDO:
+        title: Orlando
+        prefix: orlando/
+        thumb: orlando_thumbs.jpg
+        children:
+           orlando:
+            mount: no
+            date: 30 January 2025
+            pix: 0[01-13].jpg
+            
     TSTS:
       title: The Star Tide Shores
       prefix: tsts/
@@ -53,16 +72,6 @@ root:
         charax:
             date: 27 March 2025
             pix: 0[14-17].jpg
-
-    ORLANDO:
-        title: Orlando
-        prefix: orlando/
-        thumb: orlando_thumbs.jpg
-        children:
-           orlando:
-            mount: no
-            date: 30 January 2025
-            pix: 0[01-13].jpg
 
     cakp:
       title: CAKP
