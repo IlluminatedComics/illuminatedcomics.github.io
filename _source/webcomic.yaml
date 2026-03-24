@@ -48,8 +48,11 @@ root:
        thumb: obscurum_thumb.jpg
        children:
         obscurum1:
-            date: 30 March 2026
+            date: 23 March 2026
             pix: 0[00-14].jpg
+        obscurum2:
+            date: 24 March 2026
+            pix: 0[15-22].jpg
   
     ORLANDO:
         title: Orlando

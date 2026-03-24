@@ -22,6 +22,7 @@ root.doctorwho -> doctorwho/
 root.nickfast -> nickfast/
 root.agent077 -> agent077/
 root.OBSCURUM.obscurum1 -> obscurum1/ >>> OBSCURUM/#obscurum1
+root.OBSCURUM.obscurum2 -> obscurum2/ >>> OBSCURUM/#obscurum2
 root.ORLANDO.orlando (unmounted)
 root.TSTS.tsts -> tsts/ >>> TSTS/#tsts
 root.TSTS.charax -> charax/ >>> TSTS/#charax
