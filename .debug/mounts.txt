@@ -3,42 +3,34 @@ root.OBSCURUM -> OBSCURUM/
 root.ORLANDO -> ORLANDO/
 root.TSTS -> TSTS/
 root.cakp -> cakp/
+root.misc -> misc/
 root.sota -> sota/
 root.queens -> queens/
 root.sota02 -> sota02/
 root.sota03 -> sota03/
-root.ossoduro -> ossoduro/
-root.captaindamage -> captaindamage/
 root.theo -> theo/
 root.toxicpark01 -> toxicpark01/
 root.toxicpark02 -> toxicpark02/
 root.toxicpark03 -> toxicpark03/
 root.tpchayzelia -> tpchayzelia/
 root.tptheend -> tptheend/
-root.corpseman -> corpseman/
-root.coleblud -> coleblud/
 root.history -> history/
 root.doctorwho -> doctorwho/
-root.nickfast -> nickfast/
-root.agent077 -> agent077/
 root.OBSCURUM.obscurum1 -> obscurum1/ >>> OBSCURUM/#obscurum1
 root.OBSCURUM.obscurum2 -> obscurum2/ >>> OBSCURUM/#obscurum2
+root.OBSCURUM.obscurum3 -> obscurum3/ >>> OBSCURUM/#obscurum3
 root.ORLANDO.orlando (unmounted)
 root.TSTS.tsts -> tsts/ >>> TSTS/#tsts
 root.TSTS.charax -> charax/ >>> TSTS/#charax
-root.cakp.ohlove -> ohlove/ >>> cakp/#ohlove
-root.cakp.insane -> insane/ >>> cakp/#insane
-root.cakp.grim -> grim/ >>> cakp/#grim
-root.cakp.grit -> grit/ >>> cakp/#grit
-root.cakp.afd -> afd/ >>> cakp/#afd
-root.cakp.pinocchio -> pinocchio/ >>> cakp/#pinocchio
-root.cakp.tomb -> tomb/ >>> cakp/#tomb
-root.cakp.kopfandtesta -> kopfandtesta/ >>> cakp/#kopfandtesta
-root.cakp.babble -> babble/ >>> cakp/#babble
-root.cakp.madmagic -> madmagic/ >>> cakp/#madmagic
-root.sota.sota1 -> sota1/ >>> sota/#sota1
-root.sota.sota2 -> sota2/ >>> sota/#sota2
-root.sota.sota3 -> sota3/ >>> sota/#sota3
+root.cakp.cakp (unmounted)
+root.misc.afd -> afd/ >>> misc/#afd
+root.misc.corpseman3 -> corpseman3/ >>> misc/#corpseman3
+root.misc.corpseman4 -> corpseman4/ >>> misc/#corpseman4
+root.misc.corpseman5 -> corpseman5/ >>> misc/#corpseman5
+root.misc.cole4 -> cole4/ >>> misc/#cole4
+root.misc.tomb -> tomb/ >>> misc/#tomb
+root.misc.kopfandtesta -> kopfandtesta/ >>> misc/#kopfandtesta
+root.misc.madmagic -> madmagic/ >>> misc/#madmagic
 root.sota.sota4 -> sota4/ >>> sota/#sota4
 root.sota.sota5 -> sota5/ >>> sota/#sota5
 root.sota.sota6 -> sota6/ >>> sota/#sota6
@@ -61,10 +53,6 @@ root.sota03.floor7 -> floor7/ >>> sota03/#floor7
 root.sota03.floor8 -> floor8/ >>> sota03/#floor8
 root.sota03.floor9 -> floor9/ >>> sota03/#floor9
 root.sota03.floor10 -> floor10/ >>> sota03/#floor10
-root.ossoduro.osso (unmounted)
-root.captaindamage.damage1 -> damage1/ >>> captaindamage/#damage1
-root.captaindamage.damage2 -> damage2/ >>> captaindamage/#damage2
-root.captaindamage.damage3 -> damage3/ >>> captaindamage/#damage3
 root.theo.theo01 -> theo01/ >>> theo/#theo01
 root.theo.theo757 -> theo757/ >>> theo/#theo757
 root.toxicpark01.toxic1 (unmounted)
@@ -72,21 +60,7 @@ root.toxicpark02.toxic2 (unmounted)
 root.toxicpark03.toxic3 (unmounted)
 root.tpchayzelia.chayz (unmounted)
 root.tptheend.toxicend (unmounted)
-root.corpseman.corspeman1 -> corspeman1/ >>> corpseman/#corspeman1
-root.corpseman.corpseman2 -> corpseman2/ >>> corpseman/#corpseman2
-root.corpseman.corpseman3 -> corpseman3/ >>> corpseman/#corpseman3
-root.corpseman.corpseman4 -> corpseman4/ >>> corpseman/#corpseman4
-root.corpseman.corpseman5 -> corpseman5/ >>> corpseman/#corpseman5
-root.coleblud.cole1 -> cole1/ >>> coleblud/#cole1
-root.coleblud.cole2 -> cole2/ >>> coleblud/#cole2
-root.coleblud.cole3 -> cole3/ >>> coleblud/#cole3
-root.coleblud.cole4 -> cole4/ >>> coleblud/#cole4
 root.history.firouz -> firouz/ >>> history/#firouz
-root.history.grifo -> grifo/ >>> history/#grifo
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
 root.history.rosmunda -> rosmunda/ >>> history/#rosmunda
 root.doctorwho.doc1 (unmounted)
-root.nickfast.nick1 -> nick1/ >>> nickfast/#nick1
-root.nickfast.nick2 -> nick2/ >>> nickfast/#nick2
-root.agent077.agent1 -> agent1/ >>> agent077/#agent1
-root.agent077.agent2 -> agent2/ >>> agent077/#agent2

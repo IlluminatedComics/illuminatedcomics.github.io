@@ -53,6 +53,9 @@ root:
         obscurum2:
             date: 24 March 2026
             pix: 0[15-22].jpg
+        obscurum3:
+            date: 27 March 2026
+            pix: 0[23-28].jpg
   
     ORLANDO:
         title: Orlando
@@ -75,39 +78,43 @@ root:
         charax:
             date: 27 March 2025
             pix: 0[14-17].jpg
-
+            
     cakp:
-      title: CAKP
+      title: Comics About Killing People
+      prefix: comicsaboutkillingpeople/
+      thumb: cakpv1_thumb.jpg
+      children:
+        cakp:
+            mount: no
+            date: 03 August 2025
+            pix: 0[00-99].jpg, 1[00-31].jpg
+
+    misc:
+      title: Misc
       prefix: killingpeople/
       thumb: killing_thumb.jpg
       children:
-        ohlove: 
-            pix: Oh-Love-[001-005].jpg
-            date: 6 February 2022
-        insane:
-            pix: Ins[001-004].jpg
-            date: 18 August 2022
-        grim:
-            pix: grim[01-04].jpg
-            date: 28 January 2023
-        grit:
-            pix: Grit[01-08].jpg
-            date: 24 March 2023
         afd:
             pix: AFD[001-002].jpg
             date: 1 April 2023
-        pinocchio:
-            pix: Pino[1-4].jpg
-            date: 2 March 2024
+        corpseman3:
+            pix: Hippo[01-04].jpg
+            date: 16 October 2024
+        corpseman4:
+            pix: War[001-004].jpg
+            date: 27 April 2025  
+        corpseman5:
+            pix: V[001-007].jpg
+            date: 21 November 2025
+        cole4:
+            pix: cb3_[1-8].jpg
+            date: 20 November 2023
         tomb:
             pix: tomb[01-04].jpg
             date: 24 October 2024
         kopfandtesta:
             pix: kt[001-008].jpg
             date: 3 May 2025
-        babble:
-            pix: 0[01-04].jpg
-            date: 4 June 2025
         madmagic:
             pix: mm[001-007].jpg
             date: 20 August 2025
@@ -117,15 +124,6 @@ root:
       prefix: sota/
       thumb: sota_thumb.jpg
       children:
-        sota1:
-            pix: sota1_[1-4].jpg
-            date: 22 January 2022
-        sota2:
-            pix: sota2_[1-2].jpg
-            date: 6 July 2022
-        sota3:
-            pix: sota3_[1-4].jpg
-            date: 6 August 2022
         sota4:
             pix: sota4_[1-3].jpg
             date: 12 December 2023
@@ -211,32 +209,6 @@ root:
             floor10:
                 pix: 015.jpg
                 date: 18 December 2025
-                
-    ossoduro:
-        title: Osso Duro
-        prefix: ossoduro/
-        thumb: osso_thumbs.jpg
-        children:
-            osso:
-                mount: no
-                pix: 0[01-10].jpg
-                date: 25 June 2025
-            
-      
-    captaindamage:
-        title: Captain Damage
-        prefix: captaindamage/
-        thumb: damage_thumb.jpg
-        children:
-          damage1:
-            pix: 0[01-04].jpg
-            date: 25 September 2023
-          damage2:
-            pix: 0[05-08].jpg
-            date: 8 October 2023
-          damage3:
-            pix: 0[09-14].jpg
-            date: 27 December 2024
                       
     theo:
       title: Theo the Lucky
@@ -300,45 +272,6 @@ root:
             date: 1 January 2023
             pix: 0[01-10].jpg
             
-    corpseman:
-      title: Sir Charles Corpseman
-      prefix: corpseman/
-      thumb: corpse_thumbs.jpg
-      children:
-        corspeman1:
-            pix: corpse[01-03].jpg
-            date: 1 July 2023
-        corpseman2:
-            pix: HorrorofCorpse[01-04].jpg
-            date: 3 February 2024
-        corpseman3:
-            pix: Hippo[01-04].jpg
-            date: 16 October 2024
-        corpseman4:
-            pix: War[001-004].jpg
-            date: 27 April 2025  
-        corpseman5:
-            pix: V[001-007].jpg
-            date: 21 November 2025
-        
-    coleblud:
-      title: Cole Blud
-      prefix: coleblud/
-      thumb: cole_thumb.jpg
-      children:
-        cole1:
-            pix: cb1_[1-8].jpg,
-            date: 2 July 2022
-        cole2:
-            pix: cb2_[1-7].jpg
-            date: 3 September 2022
-        cole3:
-            pix: cb3_[1-4].jpg
-            date: 17 November 2023
-        cole4:
-            pix: cb3_[5-8].jpg
-            date: 20 November 2023
-            
     history:
         title: History Channel
         prefix: history/
@@ -347,9 +280,6 @@ root:
           firouz:
             pix: firouz[001-003].jpg
             date: 4 February 2023
-          grifo:
-            pix: Grif[01-05].jpg
-            date: 27 February 2023
           alcibiades:
             pix: alci[01-05].jpg
             date: 14 May 2023
@@ -366,29 +296,5 @@ root:
             mount: no
             pix: Who [01-08].jpg
             date: 07 November 2024
-      
-    nickfast:
-      title: Nick Fast
-      prefix: nickfast/
-      thumb: nick_thumb.jpg
-      children:
-        nick1:
-            pix: nf_[01-08].jpg,
-            date: 29 August 2022
-        nick2:
-            pix: nf_[09-16].jpg,
-            date: 31 October 2022
-            
-    agent077:
-      title: Agent 077
-      prefix: agent077/
-      thumb: 077_thumb.jpg
-      children:
-        agent1:
-           pix: 0[01-04].jpg,
-           date: 23 July 2023
-        agent2:
-           pix: 0[05-08].jpg,
-           date: 3 August 2023
            
       
