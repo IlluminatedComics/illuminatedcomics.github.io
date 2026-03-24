@@ -15,7 +15,6 @@ root.toxicpark03 -> toxicpark03/
 root.tpchayzelia -> tpchayzelia/
 root.tptheend -> tptheend/
 root.history -> history/
-root.doctorwho -> doctorwho/
 root.OBSCURUM.obscurum1 -> obscurum1/ >>> OBSCURUM/#obscurum1
 root.OBSCURUM.obscurum2 -> obscurum2/ >>> OBSCURUM/#obscurum2
 root.OBSCURUM.obscurum3 -> obscurum3/ >>> OBSCURUM/#obscurum3
@@ -24,11 +23,12 @@ root.TSTS.tsts -> tsts/ >>> TSTS/#tsts
 root.TSTS.charax -> charax/ >>> TSTS/#charax
 root.cakp.cakp (unmounted)
 root.misc.afd -> afd/ >>> misc/#afd
+root.misc.cole4 -> cole4/ >>> misc/#cole4
 root.misc.corpseman3 -> corpseman3/ >>> misc/#corpseman3
 root.misc.corpseman4 -> corpseman4/ >>> misc/#corpseman4
 root.misc.corpseman5 -> corpseman5/ >>> misc/#corpseman5
-root.misc.cole4 -> cole4/ >>> misc/#cole4
 root.misc.tomb -> tomb/ >>> misc/#tomb
+root.misc.doctorwhoever -> doctorwhoever/ >>> misc/#doctorwhoever
 root.misc.kopfandtesta -> kopfandtesta/ >>> misc/#kopfandtesta
 root.misc.madmagic -> madmagic/ >>> misc/#madmagic
 root.sota.sota4 -> sota4/ >>> sota/#sota4
@@ -63,4 +63,3 @@ root.tptheend.toxicend (unmounted)
 root.history.firouz -> firouz/ >>> history/#firouz
 root.history.alcibiades -> alcibiades/ >>> history/#alcibiades
 root.history.rosmunda -> rosmunda/ >>> history/#rosmunda
-root.doctorwho.doc1 (unmounted)

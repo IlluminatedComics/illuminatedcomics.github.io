@@ -90,13 +90,16 @@ root:
             pix: 000.jpg, 001.jpg, 0[03-82].jpg, 0[84-99].jpg, 1[00-31].jpg
 
     misc:
-      title: Misc
-      prefix: killingpeople/
-      thumb: killing_thumb.jpg
+      title: Miscellaneous
+      prefix: misc/
+      thumb: misc_thumb.jpg
       children:
         afd:
             pix: AFD[001-002].jpg
-            date: 1 April 2023
+            date: 1 April 2023         
+        cole4:
+            pix: cb3_[1-8].jpg
+            date: 20 November 2023
         corpseman3:
             pix: Hippo[01-04].jpg
             date: 16 October 2024
@@ -106,19 +109,19 @@ root:
         corpseman5:
             pix: V[001-007].jpg
             date: 21 November 2025
-        cole4:
-            pix: cb3_[1-8].jpg
-            date: 20 November 2023
         tomb:
             pix: tomb[01-04].jpg
             date: 24 October 2024
+        doctorwhoever:
+            pix: Who [01-08].jpg
+            date: 07 November 2024
         kopfandtesta:
             pix: kt[001-008].jpg
             date: 3 May 2025
         madmagic:
             pix: mm[001-007].jpg
             date: 20 August 2025
-    
+
     sota:
       title: Sota Deathmonger v1
       prefix: sota/
@@ -286,15 +289,3 @@ root:
           rosmunda:
             pix: Ros[001-008].jpg
             date: 16 September 2025
-
-    doctorwho:
-       title: Doctor Whoever
-       prefix: doctorwho/
-       thumb: who_thumb.jpg
-       children:
-         doc1:
-            mount: no
-            pix: Who [01-08].jpg
-            date: 07 November 2024
-           
-      
