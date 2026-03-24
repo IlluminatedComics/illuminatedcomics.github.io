@@ -87,7 +87,7 @@ root:
         cakp:
             mount: no
             date: 03 August 2025
-            pix: 0[00-99].jpg, 1[00-31].jpg
+            pix: 000.jpg, 001.jpg, 0[03-82].jpg, 0[84-99].jpg, 1[00-31].jpg
 
     misc:
       title: Misc
