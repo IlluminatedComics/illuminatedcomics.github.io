@@ -18,6 +18,7 @@ root.history -> history/
 root.OBSCURUM.obscurum1 -> obscurum1/ >>> OBSCURUM/#obscurum1
 root.OBSCURUM.obscurum2 -> obscurum2/ >>> OBSCURUM/#obscurum2
 root.OBSCURUM.obscurum3 -> obscurum3/ >>> OBSCURUM/#obscurum3
+root.OBSCURUM.obscurum4 -> obscurum4/ >>> OBSCURUM/#obscurum4
 root.ORLANDO.orlando (unmounted)
 root.TSTS.tsts -> tsts/ >>> TSTS/#tsts
 root.TSTS.charax -> charax/ >>> TSTS/#charax
