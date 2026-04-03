@@ -57,8 +57,11 @@ root:
             date: 27 March 2026
             pix: 0[23-38].jpg
         obscurum4:
-            date: 01 April 2026
+            date: 30 March 2026
             pix: 0[40-46].jpg
+        obscurum5: 
+            date: 03 April 2026
+            pix: 0[47-67].jpg
   
     ORLANDO:
         title: Orlando
