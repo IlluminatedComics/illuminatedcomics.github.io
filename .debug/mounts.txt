@@ -33,6 +33,7 @@ root.misc.tomb -> tomb/ >>> misc/#tomb
 root.misc.doctorwhoever -> doctorwhoever/ >>> misc/#doctorwhoever
 root.misc.kopfandtesta -> kopfandtesta/ >>> misc/#kopfandtesta
 root.misc.madmagic -> madmagic/ >>> misc/#madmagic
+root.misc.tomb2 -> tomb2/ >>> misc/#tomb2
 root.sota.sota4 -> sota4/ >>> sota/#sota4
 root.sota.sota5 -> sota5/ >>> sota/#sota5
 root.sota.sota6 -> sota6/ >>> sota/#sota6
