@@ -130,6 +130,9 @@ root:
         tomb2:
             pix: mummy0[01-06].jpg
             date: 04 May 2026
+        prodigy:
+            pix: prodigy[1-8].jpg
+            date: 01 July 2026
 
     sota:
       title: Sota Deathmonger v1
