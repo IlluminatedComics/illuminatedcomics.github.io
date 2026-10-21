@@ -133,6 +133,9 @@ root:
         prodigy:
             pix: prodigy[1-8].jpg
             date: 01 July 2026
+        psikotika:
+            pix: Psiko[001-006].jpg
+            date: 21 October 2026
 
     sota:
       title: Sota Deathmonger v1
